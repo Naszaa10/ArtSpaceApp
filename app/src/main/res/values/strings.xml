@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="ozil">Ozil Adalah pemain sepak bola</string>
+    <string name="Mesut_Ozil">Mesut Ozil</string>
+    <string name="messi">Messi Pemain bola</string>
+    <string name="Lionel_Messi">Lionel Messi</string>
+    <string name="mbappe">Kylian Mbaape</string>
+    <string name="Kylian_Mbbape">Kylian Mbbape</string>
+</resources>
